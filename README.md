@@ -1,6 +1,8 @@
 # Play with ChatGPT and plugins
 ## Reading Helper
 Description: Select some paragraphs and right click to get Summary/Bullet Points/Get Replies/Visual Aids options. It would largely enhance reading speed and help you  get a clearer understanding.
+
+
 [WIP]Demo:
 
 Requirements:
