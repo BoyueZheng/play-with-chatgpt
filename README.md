@@ -2,8 +2,7 @@
 ## Reading Helper Plugin
 Description: 
 
-Select some paragraphs and right click to get 
-1. Summary; 2. Bullet Points; 3. Get Replies; 4. Visual Aids options. It would largely enhance reading speed and help you  get a clearer understanding.
+Select some paragraphs and right click to get 1. Summary; 2. Bullet Points; 3. Get Replies; 4. Visual Aids options. It would largely enhance reading speed and help you get a clearer understanding of text content.
 
 
 Demo: [see pic](/gates.png)
