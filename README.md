@@ -1,5 +1,7 @@
 # Play with ChatGPT and plugins
-## Reading Helper - summary/bullet points/get replies/visual aids
+## Reading Helper
+Description: Select some paragraphs and right click to get Summary/Bullet Points/Get Replies/Visual Aids
 Requirements:
-- Tampermonkey https://www.tampermonkey.net/index.php?ext=dhdg&updated=true&version=4.18.1#installed
-- Login https://chat.openai.com
+- Insall Tampermonkey plugin in browser (See https://www.tampermonkey.net/index.php?ext=dhdg&updated=true&version=4.18.1#installed)
+- Add BrowserGPT.user.js to Tampermonkey
+- Login to chatGPT (https://chat.openai.com)
